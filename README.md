@@ -1,3 +1,7 @@
+# Description :
+
+MoM Generator using Whisper and PyAnnote to handle transcription and speaker diarization. Built it as an end-to-end tool that processes audio, separates speakers, and produces clear meeting summaries. Designed the workflow to be simple to use and reliable for day-to-day meeting documentation.
+
 
 # React + Vite
 
